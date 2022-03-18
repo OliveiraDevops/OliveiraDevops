@@ -1,4 +1,4 @@
-## Olá sou o Fabio Oliveira, estudo programação, sou altamente apaixonado por tecnologia!
+## Olá sou o Fabio Oliveira, estudo programação, apaixonado por tecnologia!
 
 <div align="center">
   <a href="https://github.com/OliveiraDevops">
